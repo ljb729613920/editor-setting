@@ -1,0 +1,41 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"ColorPick",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSS Extended Completions",
+		"CTags",
+		"Default",
+		"DocBlockr",
+		"Emmet",
+		"IMESupport",
+		"jQuery",
+		"Monokai - Spacegray",
+		"Nil-Theme",
+		"Package Control",
+		"PHP Codebeautifier",
+		"PyV8",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"Theme - Glacier",
+		"Theme - Gravity",
+		"Theme - Hero",
+		"Theme - Ksix",
+		"Theme - Soda",
+		"ZZZ"
+	]
+}

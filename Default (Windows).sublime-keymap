@@ -1,0 +1,14 @@
+[
+{
+        "keys": ["f12"],
+        "command": "side_bar_open_in_browser",
+        "args": {
+                    "paths": [],
+                    "type": "testing",
+                    "browser": "chrome"
+                }
+    },
+    { "keys": ["ctrl+1"], "command": "insert", "args": {"characters": "echo '<pre>';\nvar_dump($);exit;"} },
+    { "keys": ["ctrl+2"], "command": "insert", "args": {"characters": "<?php \n"} },
+    { "keys": ["ctrl+3"], "command": "insert", "args": {"characters": "<{}>"} }
+]
